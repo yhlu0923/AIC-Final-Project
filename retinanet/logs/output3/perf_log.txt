@@ -1,0 +1,1100 @@
+
+mAP:
+without_mask: 0.8843566021867115
+Precision: 0.5714285714285714
+Recall: 1.0
+with_mask: 0.8883464188264513
+Precision: 0.5714285714285714
+Recall: 1.0
+mask_weared_incorrect: 1.0
+Precision: 0.5714285714285714
+Recall: 1.0
+
+mAP:
+without_mask: 0.8907946375811409
+Precision: 0.47058823529411764
+Recall: 1.0
+with_mask: 0.8916991211316582
+Precision: 0.47058823529411764
+Recall: 1.0
+mask_weared_incorrect: 1.0
+Precision: 0.47058823529411764
+Recall: 1.0
+
+mAP:
+without_mask: 0.8959696433834365
+Precision: 0.5333333333333333
+Recall: 1.0
+with_mask: 0.9077061512154674
+Precision: 0.5333333333333333
+Recall: 1.0
+mask_weared_incorrect: 1.0
+Precision: 0.5333333333333333
+Recall: 1.0
+
+mAP:
+without_mask: 0.8844754837770988
+Precision: 0.64
+Recall: 1.0
+with_mask: 0.8724258679486121
+Precision: 0.64
+Recall: 1.0
+mask_weared_incorrect: 1.0
+Precision: 0.64
+Recall: 1.0
+
+mAP:
+without_mask: 0.8823927977856169
+Precision: 0.48484848484848486
+Recall: 1.0
+with_mask: 0.896624513927804
+Precision: 0.48484848484848486
+Recall: 1.0
+mask_weared_incorrect: 1.0
+Precision: 0.48484848484848486
+Recall: 1.0
+
+mAP:
+without_mask: 0.8877726771289277
+Precision: 0.4
+Recall: 1.0
+with_mask: 0.8969954432283094
+Precision: 0.4
+Recall: 1.0
+mask_weared_incorrect: 1.0
+Precision: 0.4
+Recall: 1.0
+
+mAP:
+without_mask: 0.872399976100319
+Precision: 0.6666666666666666
+Recall: 1.0
+with_mask: 0.8672760843545916
+Precision: 0.6666666666666666
+Recall: 1.0
+mask_weared_incorrect: 1.0
+Precision: 0.6666666666666666
+Recall: 1.0
+
+mAP:
+without_mask: 0.8947152606156439
+Precision: 0.47058823529411764
+Recall: 1.0
+with_mask: 0.8838398530075762
+Precision: 0.47058823529411764
+Recall: 1.0
+mask_weared_incorrect: 1.0
+Precision: 0.47058823529411764
+Recall: 1.0
+
+mAP:
+without_mask: 0.8729661143454248
+Precision: 0.5517241379310345
+Recall: 1.0
+with_mask: 0.8842628534768598
+Precision: 0.5517241379310345
+Recall: 1.0
+mask_weared_incorrect: 1.0
+Precision: 0.5517241379310345
+Recall: 1.0
+
+mAP:
+without_mask: 0.8721401030619759
+Precision: 0.5
+Recall: 1.0
+with_mask: 0.8614889805738384
+Precision: 0.5
+Recall: 1.0
+mask_weared_incorrect: 1.0
+Precision: 0.5
+Recall: 1.0
+
+mAP:
+without_mask: 0.8835024120868042
+Precision: 0.5517241379310345
+Recall: 1.0
+with_mask: 0.9071817708039122
+Precision: 0.5517241379310345
+Recall: 1.0
+mask_weared_incorrect: 1.0
+Precision: 0.5517241379310345
+Recall: 1.0
+
+mAP:
+without_mask: 0.8909712580453449
+Precision: 0.5333333333333333
+Recall: 1.0
+with_mask: 0.8892088877492934
+Precision: 0.5333333333333333
+Recall: 1.0
+mask_weared_incorrect: 1.0
+Precision: 0.5333333333333333
+Recall: 1.0
+
+mAP:
+without_mask: 0.8826932538257497
+Precision: 0.6666666666666666
+Recall: 1.0
+with_mask: 0.8650481643891739
+Precision: 0.6666666666666666
+Recall: 1.0
+mask_weared_incorrect: 1.0
+Precision: 0.6666666666666666
+Recall: 1.0
+
+mAP:
+without_mask: 0.8715569487983283
+Precision: 0.6956521739130435
+Recall: 1.0
+with_mask: 0.8948112002107012
+Precision: 0.6956521739130435
+Recall: 1.0
+mask_weared_incorrect: 1.0
+Precision: 0.6956521739130435
+Recall: 1.0
+
+mAP:
+without_mask: 0.8617664851784634
+Precision: 0.64
+Recall: 1.0
+with_mask: 0.8598232390741557
+Precision: 0.64
+Recall: 1.0
+mask_weared_incorrect: 1.0
+Precision: 0.64
+Recall: 1.0
+
+mAP:
+without_mask: 0.8726672561155321
+Precision: 0.5517241379310345
+Recall: 1.0
+with_mask: 0.8733106459996387
+Precision: 0.5517241379310345
+Recall: 1.0
+mask_weared_incorrect: 1.0
+Precision: 0.5517241379310345
+Recall: 1.0
+
+mAP:
+without_mask: 0.872521767097797
+Precision: 0.5333333333333333
+Recall: 1.0
+with_mask: 0.8840059546538677
+Precision: 0.5333333333333333
+Recall: 1.0
+mask_weared_incorrect: 1.0
+Precision: 0.5333333333333333
+Recall: 1.0
+
+mAP:
+without_mask: 0.8729660136193713
+Precision: 0.64
+Recall: 1.0
+with_mask: 0.8973994854386633
+Precision: 0.64
+Recall: 1.0
+mask_weared_incorrect: 1.0
+Precision: 0.64
+Recall: 1.0
+
+mAP:
+without_mask: 0.8731172537887603
+Precision: 0.6153846153846154
+Recall: 1.0
+with_mask: 0.8891084505363022
+Precision: 0.6153846153846154
+Recall: 1.0
+mask_weared_incorrect: 1.0
+Precision: 0.6153846153846154
+Recall: 1.0
+
+mAP:
+without_mask: 0.8731172537887603
+Precision: 0.6153846153846154
+Recall: 1.0
+with_mask: 0.8814262835990639
+Precision: 0.6153846153846154
+Recall: 1.0
+mask_weared_incorrect: 1.0
+Precision: 0.6153846153846154
+Recall: 1.0
+
+mAP:
+without_mask: 0.8731172537887603
+Precision: 0.64
+Recall: 1.0
+with_mask: 0.8812716604829205
+Precision: 0.64
+Recall: 1.0
+mask_weared_incorrect: 1.0
+Precision: 0.64
+Recall: 1.0
+
+mAP:
+without_mask: 0.8731172537887603
+Precision: 0.64
+Recall: 1.0
+with_mask: 0.8733928527901063
+Precision: 0.64
+Recall: 1.0
+mask_weared_incorrect: 1.0
+Precision: 0.64
+Recall: 1.0
+
+mAP:
+without_mask: 0.8729754876059639
+Precision: 0.64
+Recall: 1.0
+with_mask: 0.8733771478084305
+Precision: 0.64
+Recall: 1.0
+mask_weared_incorrect: 1.0
+Precision: 0.64
+Recall: 1.0
+
+mAP:
+without_mask: 0.8729754876059639
+Precision: 0.64
+Recall: 1.0
+with_mask: 0.8708428005506867
+Precision: 0.64
+Recall: 1.0
+mask_weared_incorrect: 1.0
+Precision: 0.64
+Recall: 1.0
+
+mAP:
+without_mask: 0.8729754876059639
+Precision: 0.64
+Recall: 1.0
+with_mask: 0.8734953409049369
+Precision: 0.64
+Recall: 1.0
+mask_weared_incorrect: 1.0
+Precision: 0.64
+Recall: 1.0
+
+mAP:
+without_mask: 0.8729754876059639
+Precision: 0.64
+Recall: 1.0
+with_mask: 0.8681893728247333
+Precision: 0.64
+Recall: 1.0
+mask_weared_incorrect: 1.0
+Precision: 0.64
+Recall: 1.0
+
+mAP:
+without_mask: 0.8729754876059639
+Precision: 0.64
+Recall: 1.0
+with_mask: 0.8679409107569968
+Precision: 0.64
+Recall: 1.0
+mask_weared_incorrect: 1.0
+Precision: 0.64
+Recall: 1.0
+
+mAP:
+without_mask: 0.8732646663681147
+Precision: 0.64
+Recall: 1.0
+with_mask: 0.8652558558637672
+Precision: 0.64
+Recall: 1.0
+mask_weared_incorrect: 1.0
+Precision: 0.64
+Recall: 1.0
+
+mAP:
+without_mask: 0.8731172537887603
+Precision: 0.64
+Recall: 1.0
+with_mask: 0.8679195896097365
+Precision: 0.64
+Recall: 1.0
+mask_weared_incorrect: 1.0
+Precision: 0.64
+Recall: 1.0
+
+mAP:
+without_mask: 0.8731172537887603
+Precision: 0.64
+Recall: 1.0
+with_mask: 0.8680002388552157
+Precision: 0.64
+Recall: 1.0
+mask_weared_incorrect: 1.0
+Precision: 0.64
+Recall: 1.0
+
+mAP:
+without_mask: 0.8729754876059639
+Precision: 0.64
+Recall: 1.0
+with_mask: 0.8569777422458948
+Precision: 0.64
+Recall: 1.0
+mask_weared_incorrect: 1.0
+Precision: 0.64
+Recall: 1.0
+
+mAP:
+without_mask: 0.8729754876059639
+Precision: 0.64
+Recall: 1.0
+with_mask: 0.8624870015919623
+Precision: 0.64
+Recall: 1.0
+mask_weared_incorrect: 1.0
+Precision: 0.64
+Recall: 1.0
+
+mAP:
+without_mask: 0.8732646663681147
+Precision: 0.64
+Recall: 1.0
+with_mask: 0.856981809993089
+Precision: 0.64
+Recall: 1.0
+mask_weared_incorrect: 1.0
+Precision: 0.64
+Recall: 1.0
+
+mAP:
+without_mask: 0.8731172537887603
+Precision: 0.6666666666666666
+Recall: 1.0
+with_mask: 0.8569933468157729
+Precision: 0.6666666666666666
+Recall: 1.0
+mask_weared_incorrect: 1.0
+Precision: 0.6666666666666666
+Recall: 1.0
+
+mAP:
+without_mask: 0.8729754876059639
+Precision: 0.6666666666666666
+Recall: 1.0
+with_mask: 0.8569670337371317
+Precision: 0.6666666666666666
+Recall: 1.0
+mask_weared_incorrect: 1.0
+Precision: 0.6666666666666666
+Recall: 1.0
+
+mAP:
+without_mask: 0.8732646663681147
+Precision: 0.64
+Recall: 1.0
+with_mask: 0.85976265517271
+Precision: 0.64
+Recall: 1.0
+mask_weared_incorrect: 1.0
+Precision: 0.64
+Recall: 1.0
+
+mAP:
+without_mask: 0.8731172537887603
+Precision: 0.6666666666666666
+Recall: 1.0
+with_mask: 0.8569370670359913
+Precision: 0.6666666666666666
+Recall: 1.0
+mask_weared_incorrect: 1.0
+Precision: 0.6666666666666666
+Recall: 1.0
+
+mAP:
+without_mask: 0.8731172537887603
+Precision: 0.6956521739130435
+Recall: 1.0
+with_mask: 0.8542563911849248
+Precision: 0.6956521739130435
+Recall: 1.0
+mask_weared_incorrect: 1.0
+Precision: 0.6956521739130435
+Recall: 1.0
+
+mAP:
+without_mask: 0.8732684939581492
+Precision: 0.64
+Recall: 1.0
+with_mask: 0.8598105748636398
+Precision: 0.64
+Recall: 1.0
+mask_weared_incorrect: 1.0
+Precision: 0.64
+Recall: 1.0
+
+mAP:
+without_mask: 0.8732646663681147
+Precision: 0.6666666666666666
+Recall: 1.0
+with_mask: 0.8570521873866023
+Precision: 0.6666666666666666
+Recall: 1.0
+mask_weared_incorrect: 1.0
+Precision: 0.6666666666666666
+Recall: 1.0
+
+mAP:
+without_mask: 0.8734139423794597
+Precision: 0.6666666666666666
+Recall: 1.0
+with_mask: 0.8542850191937187
+Precision: 0.6666666666666666
+Recall: 1.0
+mask_weared_incorrect: 1.0
+Precision: 0.6666666666666666
+Recall: 1.0
+
+mAP:
+without_mask: 0.8731172537887603
+Precision: 0.6956521739130435
+Recall: 1.0
+with_mask: 0.8542576837560049
+Precision: 0.6956521739130435
+Recall: 1.0
+mask_weared_incorrect: 1.0
+Precision: 0.6956521739130435
+Recall: 1.0
+
+mAP:
+without_mask: 0.8731172537887603
+Precision: 0.7272727272727273
+Recall: 1.0
+with_mask: 0.8542372628744741
+Precision: 0.7272727272727273
+Recall: 1.0
+mask_weared_incorrect: 1.0
+Precision: 0.7272727272727273
+Recall: 1.0
+
+mAP:
+without_mask: 0.8731172537887603
+Precision: 0.7272727272727273
+Recall: 1.0
+with_mask: 0.8542276741478968
+Precision: 0.7272727272727273
+Recall: 1.0
+mask_weared_incorrect: 1.0
+Precision: 0.7272727272727273
+Recall: 1.0
+
+mAP:
+without_mask: 0.8731267277753528
+Precision: 0.6956521739130435
+Recall: 1.0
+with_mask: 0.8542563911849248
+Precision: 0.6956521739130435
+Recall: 1.0
+mask_weared_incorrect: 1.0
+Precision: 0.6956521739130435
+Recall: 1.0
+
+mAP:
+without_mask: 0.8732684939581492
+Precision: 0.6956521739130435
+Recall: 1.0
+with_mask: 0.857043234126078
+Precision: 0.6956521739130435
+Recall: 1.0
+mask_weared_incorrect: 1.0
+Precision: 0.6956521739130435
+Recall: 1.0
+
+mAP:
+without_mask: 0.8731172537887603
+Precision: 0.6956521739130435
+Recall: 1.0
+with_mask: 0.8542273074746652
+Precision: 0.6956521739130435
+Recall: 1.0
+mask_weared_incorrect: 1.0
+Precision: 0.6956521739130435
+Recall: 1.0
+
+mAP:
+without_mask: 0.8729754876059639
+Precision: 0.6956521739130435
+Recall: 1.0
+with_mask: 0.8542065409331056
+Precision: 0.6956521739130435
+Recall: 1.0
+mask_weared_incorrect: 1.0
+Precision: 0.6956521739130435
+Recall: 1.0
+
+mAP:
+without_mask: 0.8734139423794597
+Precision: 0.7272727272727273
+Recall: 1.0
+with_mask: 0.8542669621471243
+Precision: 0.7272727272727273
+Recall: 1.0
+mask_weared_incorrect: 1.0
+Precision: 0.7272727272727273
+Recall: 1.0
+
+mAP:
+without_mask: 0.8732684939581492
+Precision: 0.7272727272727273
+Recall: 1.0
+with_mask: 0.8542570067473154
+Precision: 0.7272727272727273
+Recall: 1.0
+mask_weared_incorrect: 1.0
+Precision: 0.7272727272727273
+Recall: 1.0
+
+mAP:
+without_mask: 0.8734139423794597
+Precision: 0.6956521739130435
+Recall: 1.0
+with_mask: 0.8542173027422869
+Precision: 0.6956521739130435
+Recall: 1.0
+mask_weared_incorrect: 1.0
+Precision: 0.6956521739130435
+Recall: 1.0
+
+mAP:
+without_mask: 0.8732684939581492
+Precision: 0.7272727272727273
+Recall: 1.0
+with_mask: 0.854235658854361
+Precision: 0.7272727272727273
+Recall: 1.0
+mask_weared_incorrect: 1.0
+Precision: 0.7272727272727273
+Recall: 1.0
+
+mAP:
+without_mask: 0.8729885057471265
+Precision: 0.7272727272727273
+Recall: 1.0
+with_mask: 0.8542364803853071
+Precision: 0.7272727272727273
+Recall: 1.0
+mask_weared_incorrect: 1.0
+Precision: 0.7272727272727273
+Recall: 1.0
+
+mAP:
+without_mask: 0.8732684939581492
+Precision: 0.7272727272727273
+Recall: 1.0
+with_mask: 0.8541894669645389
+Precision: 0.7272727272727273
+Recall: 1.0
+mask_weared_incorrect: 1.0
+Precision: 0.7272727272727273
+Recall: 1.0
+
+mAP:
+without_mask: 0.8732684939581492
+Precision: 0.7272727272727273
+Recall: 1.0
+with_mask: 0.8542088115343355
+Precision: 0.7272727272727273
+Recall: 1.0
+mask_weared_incorrect: 1.0
+Precision: 0.7272727272727273
+Recall: 1.0
+
+mAP:
+without_mask: 0.8731267277753528
+Precision: 0.7272727272727273
+Recall: 1.0
+with_mask: 0.8542550862675026
+Precision: 0.7272727272727273
+Recall: 1.0
+mask_weared_incorrect: 1.0
+Precision: 0.7272727272727273
+Recall: 1.0
+
+mAP:
+without_mask: 0.8734139423794597
+Precision: 0.7272727272727273
+Recall: 1.0
+with_mask: 0.8542563911849248
+Precision: 0.7272727272727273
+Recall: 1.0
+mask_weared_incorrect: 1.0
+Precision: 0.7272727272727273
+Recall: 1.0
+
+mAP:
+without_mask: 0.8734139423794597
+Precision: 0.7272727272727273
+Recall: 1.0
+with_mask: 0.8542470513475066
+Precision: 0.7272727272727273
+Recall: 1.0
+mask_weared_incorrect: 1.0
+Precision: 0.7272727272727273
+Recall: 1.0
+
+mAP:
+without_mask: 0.8732684939581492
+Precision: 0.7272727272727273
+Recall: 1.0
+with_mask: 0.8542470513475066
+Precision: 0.7272727272727273
+Recall: 1.0
+mask_weared_incorrect: 1.0
+Precision: 0.7272727272727273
+Recall: 1.0
+
+mAP:
+without_mask: 0.8732684939581492
+Precision: 0.7272727272727273
+Recall: 1.0
+with_mask: 0.8542570067473154
+Precision: 0.7272727272727273
+Recall: 1.0
+mask_weared_incorrect: 1.0
+Precision: 0.7272727272727273
+Recall: 1.0
+
+mAP:
+without_mask: 0.8732684939581492
+Precision: 0.7272727272727273
+Recall: 1.0
+with_mask: 0.8542470513475066
+Precision: 0.7272727272727273
+Recall: 1.0
+mask_weared_incorrect: 1.0
+Precision: 0.7272727272727273
+Recall: 1.0
+
+mAP:
+without_mask: 0.8732684939581492
+Precision: 0.7272727272727273
+Recall: 1.0
+with_mask: 0.8542470513475066
+Precision: 0.7272727272727273
+Recall: 1.0
+mask_weared_incorrect: 1.0
+Precision: 0.7272727272727273
+Recall: 1.0
+
+mAP:
+without_mask: 0.8732684939581492
+Precision: 0.7272727272727273
+Recall: 1.0
+with_mask: 0.8542570067473154
+Precision: 0.7272727272727273
+Recall: 1.0
+mask_weared_incorrect: 1.0
+Precision: 0.7272727272727273
+Recall: 1.0
+
+mAP:
+without_mask: 0.8732684939581492
+Precision: 0.7272727272727273
+Recall: 1.0
+with_mask: 0.8542570067473154
+Precision: 0.7272727272727273
+Recall: 1.0
+mask_weared_incorrect: 1.0
+Precision: 0.7272727272727273
+Recall: 1.0
+
+mAP:
+without_mask: 0.8732684939581492
+Precision: 0.7272727272727273
+Recall: 1.0
+with_mask: 0.8542570067473154
+Precision: 0.7272727272727273
+Recall: 1.0
+mask_weared_incorrect: 1.0
+Precision: 0.7272727272727273
+Recall: 1.0
+
+mAP:
+without_mask: 0.8732684939581492
+Precision: 0.7272727272727273
+Recall: 1.0
+with_mask: 0.8542570067473154
+Precision: 0.7272727272727273
+Recall: 1.0
+mask_weared_incorrect: 1.0
+Precision: 0.7272727272727273
+Recall: 1.0
+
+mAP:
+without_mask: 0.8732684939581492
+Precision: 0.7272727272727273
+Recall: 1.0
+with_mask: 0.8542570067473154
+Precision: 0.7272727272727273
+Recall: 1.0
+mask_weared_incorrect: 1.0
+Precision: 0.7272727272727273
+Recall: 1.0
+
+mAP:
+without_mask: 0.8732684939581492
+Precision: 0.7272727272727273
+Recall: 1.0
+with_mask: 0.8542570067473154
+Precision: 0.7272727272727273
+Recall: 1.0
+mask_weared_incorrect: 1.0
+Precision: 0.7272727272727273
+Recall: 1.0
+
+mAP:
+without_mask: 0.8732684939581492
+Precision: 0.7272727272727273
+Recall: 1.0
+with_mask: 0.8542570067473154
+Precision: 0.7272727272727273
+Recall: 1.0
+mask_weared_incorrect: 1.0
+Precision: 0.7272727272727273
+Recall: 1.0
+
+mAP:
+without_mask: 0.8732684939581492
+Precision: 0.7272727272727273
+Recall: 1.0
+with_mask: 0.8542570067473154
+Precision: 0.7272727272727273
+Recall: 1.0
+mask_weared_incorrect: 1.0
+Precision: 0.7272727272727273
+Recall: 1.0
+
+mAP:
+without_mask: 0.8732684939581492
+Precision: 0.7272727272727273
+Recall: 1.0
+with_mask: 0.8542570067473154
+Precision: 0.7272727272727273
+Recall: 1.0
+mask_weared_incorrect: 1.0
+Precision: 0.7272727272727273
+Recall: 1.0
+
+mAP:
+without_mask: 0.8732684939581492
+Precision: 0.7272727272727273
+Recall: 1.0
+with_mask: 0.8542570067473154
+Precision: 0.7272727272727273
+Recall: 1.0
+mask_weared_incorrect: 1.0
+Precision: 0.7272727272727273
+Recall: 1.0
+
+mAP:
+without_mask: 0.8732684939581492
+Precision: 0.7272727272727273
+Recall: 1.0
+with_mask: 0.8542570067473154
+Precision: 0.7272727272727273
+Recall: 1.0
+mask_weared_incorrect: 1.0
+Precision: 0.7272727272727273
+Recall: 1.0
+
+mAP:
+without_mask: 0.8732684939581492
+Precision: 0.7272727272727273
+Recall: 1.0
+with_mask: 0.8542570067473154
+Precision: 0.7272727272727273
+Recall: 1.0
+mask_weared_incorrect: 1.0
+Precision: 0.7272727272727273
+Recall: 1.0
+
+mAP:
+without_mask: 0.8732684939581492
+Precision: 0.7272727272727273
+Recall: 1.0
+with_mask: 0.8542570067473154
+Precision: 0.7272727272727273
+Recall: 1.0
+mask_weared_incorrect: 1.0
+Precision: 0.7272727272727273
+Recall: 1.0
+
+mAP:
+without_mask: 0.8732684939581492
+Precision: 0.7272727272727273
+Recall: 1.0
+with_mask: 0.8542570067473154
+Precision: 0.7272727272727273
+Recall: 1.0
+mask_weared_incorrect: 1.0
+Precision: 0.7272727272727273
+Recall: 1.0
+
+mAP:
+without_mask: 0.8732684939581492
+Precision: 0.7272727272727273
+Recall: 1.0
+with_mask: 0.8542570067473154
+Precision: 0.7272727272727273
+Recall: 1.0
+mask_weared_incorrect: 1.0
+Precision: 0.7272727272727273
+Recall: 1.0
+
+mAP:
+without_mask: 0.8732684939581492
+Precision: 0.7272727272727273
+Recall: 1.0
+with_mask: 0.8542570067473154
+Precision: 0.7272727272727273
+Recall: 1.0
+mask_weared_incorrect: 1.0
+Precision: 0.7272727272727273
+Recall: 1.0
+
+mAP:
+without_mask: 0.8732684939581492
+Precision: 0.7272727272727273
+Recall: 1.0
+with_mask: 0.8542570067473154
+Precision: 0.7272727272727273
+Recall: 1.0
+mask_weared_incorrect: 1.0
+Precision: 0.7272727272727273
+Recall: 1.0
+
+mAP:
+without_mask: 0.8732684939581492
+Precision: 0.7272727272727273
+Recall: 1.0
+with_mask: 0.8542570067473154
+Precision: 0.7272727272727273
+Recall: 1.0
+mask_weared_incorrect: 1.0
+Precision: 0.7272727272727273
+Recall: 1.0
+
+mAP:
+without_mask: 0.8732684939581492
+Precision: 0.7272727272727273
+Recall: 1.0
+with_mask: 0.8542570067473154
+Precision: 0.7272727272727273
+Recall: 1.0
+mask_weared_incorrect: 1.0
+Precision: 0.7272727272727273
+Recall: 1.0
+
+mAP:
+without_mask: 0.8732684939581492
+Precision: 0.7272727272727273
+Recall: 1.0
+with_mask: 0.8542570067473154
+Precision: 0.7272727272727273
+Recall: 1.0
+mask_weared_incorrect: 1.0
+Precision: 0.7272727272727273
+Recall: 1.0
+
+mAP:
+without_mask: 0.8732684939581492
+Precision: 0.7272727272727273
+Recall: 1.0
+with_mask: 0.8542570067473154
+Precision: 0.7272727272727273
+Recall: 1.0
+mask_weared_incorrect: 1.0
+Precision: 0.7272727272727273
+Recall: 1.0
+
+mAP:
+without_mask: 0.8732684939581492
+Precision: 0.7272727272727273
+Recall: 1.0
+with_mask: 0.8542570067473154
+Precision: 0.7272727272727273
+Recall: 1.0
+mask_weared_incorrect: 1.0
+Precision: 0.7272727272727273
+Recall: 1.0
+
+mAP:
+without_mask: 0.8732684939581492
+Precision: 0.7272727272727273
+Recall: 1.0
+with_mask: 0.8542570067473154
+Precision: 0.7272727272727273
+Recall: 1.0
+mask_weared_incorrect: 1.0
+Precision: 0.7272727272727273
+Recall: 1.0
+
+mAP:
+without_mask: 0.8732684939581492
+Precision: 0.7272727272727273
+Recall: 1.0
+with_mask: 0.8542570067473154
+Precision: 0.7272727272727273
+Recall: 1.0
+mask_weared_incorrect: 1.0
+Precision: 0.7272727272727273
+Recall: 1.0
+
+mAP:
+without_mask: 0.8732684939581492
+Precision: 0.7272727272727273
+Recall: 1.0
+with_mask: 0.8542570067473154
+Precision: 0.7272727272727273
+Recall: 1.0
+mask_weared_incorrect: 1.0
+Precision: 0.7272727272727273
+Recall: 1.0
+
+mAP:
+without_mask: 0.8732684939581492
+Precision: 0.7272727272727273
+Recall: 1.0
+with_mask: 0.8542570067473154
+Precision: 0.7272727272727273
+Recall: 1.0
+mask_weared_incorrect: 1.0
+Precision: 0.7272727272727273
+Recall: 1.0
+
+mAP:
+without_mask: 0.8732684939581492
+Precision: 0.7272727272727273
+Recall: 1.0
+with_mask: 0.8542570067473154
+Precision: 0.7272727272727273
+Recall: 1.0
+mask_weared_incorrect: 1.0
+Precision: 0.7272727272727273
+Recall: 1.0
+
+mAP:
+without_mask: 0.8732684939581492
+Precision: 0.7272727272727273
+Recall: 1.0
+with_mask: 0.8542570067473154
+Precision: 0.7272727272727273
+Recall: 1.0
+mask_weared_incorrect: 1.0
+Precision: 0.7272727272727273
+Recall: 1.0
+
+mAP:
+without_mask: 0.8732684939581492
+Precision: 0.7272727272727273
+Recall: 1.0
+with_mask: 0.8542570067473154
+Precision: 0.7272727272727273
+Recall: 1.0
+mask_weared_incorrect: 1.0
+Precision: 0.7272727272727273
+Recall: 1.0
+
+mAP:
+without_mask: 0.8732684939581492
+Precision: 0.7272727272727273
+Recall: 1.0
+with_mask: 0.8542570067473154
+Precision: 0.7272727272727273
+Recall: 1.0
+mask_weared_incorrect: 1.0
+Precision: 0.7272727272727273
+Recall: 1.0
+
+mAP:
+without_mask: 0.8732684939581492
+Precision: 0.7272727272727273
+Recall: 1.0
+with_mask: 0.8542570067473154
+Precision: 0.7272727272727273
+Recall: 1.0
+mask_weared_incorrect: 1.0
+Precision: 0.7272727272727273
+Recall: 1.0
+
+mAP:
+without_mask: 0.8732684939581492
+Precision: 0.7272727272727273
+Recall: 1.0
+with_mask: 0.8542570067473154
+Precision: 0.7272727272727273
+Recall: 1.0
+mask_weared_incorrect: 1.0
+Precision: 0.7272727272727273
+Recall: 1.0
+
+mAP:
+without_mask: 0.8732684939581492
+Precision: 0.7272727272727273
+Recall: 1.0
+with_mask: 0.8542570067473154
+Precision: 0.7272727272727273
+Recall: 1.0
+mask_weared_incorrect: 1.0
+Precision: 0.7272727272727273
+Recall: 1.0
+
+mAP:
+without_mask: 0.8732684939581492
+Precision: 0.7272727272727273
+Recall: 1.0
+with_mask: 0.8542570067473154
+Precision: 0.7272727272727273
+Recall: 1.0
+mask_weared_incorrect: 1.0
+Precision: 0.7272727272727273
+Recall: 1.0
+
+mAP:
+without_mask: 0.8732684939581492
+Precision: 0.7272727272727273
+Recall: 1.0
+with_mask: 0.8542570067473154
+Precision: 0.7272727272727273
+Recall: 1.0
+mask_weared_incorrect: 1.0
+Precision: 0.7272727272727273
+Recall: 1.0
+
+mAP:
+without_mask: 0.8732684939581492
+Precision: 0.7272727272727273
+Recall: 1.0
+with_mask: 0.8542570067473154
+Precision: 0.7272727272727273
+Recall: 1.0
+mask_weared_incorrect: 1.0
+Precision: 0.7272727272727273
+Recall: 1.0
+
+mAP:
+without_mask: 0.8732684939581492
+Precision: 0.7272727272727273
+Recall: 1.0
+with_mask: 0.8542570067473154
+Precision: 0.7272727272727273
+Recall: 1.0
+mask_weared_incorrect: 1.0
+Precision: 0.7272727272727273
+Recall: 1.0
+
+mAP:
+without_mask: 0.8732684939581492
+Precision: 0.7272727272727273
+Recall: 1.0
+with_mask: 0.8542570067473154
+Precision: 0.7272727272727273
+Recall: 1.0
+mask_weared_incorrect: 1.0
+Precision: 0.7272727272727273
+Recall: 1.0
